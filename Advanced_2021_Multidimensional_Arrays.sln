@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Advanced_2021_Multidimensional_Arrays", "Advanced_2021_Multidimensional_Arrays\Advanced_2021_Multidimensional_Arrays.csproj", "{DF254CCC-CF07-45C3-843F-5A22F2B319B1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagonalDifference", "Advanced_2021_Multidimensional_Arrays\DiagonalDifference.csproj", "{DF254CCC-CF07-45C3-843F-5A22F2B319B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2X2 Squares in Matrix", "2X2 Squares in Matrix\2X2 Squares in Matrix.csproj", "{EAD9FDF9-0253-4DF8-B67D-E13EF4B2B625}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{DF254CCC-CF07-45C3-843F-5A22F2B319B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF254CCC-CF07-45C3-843F-5A22F2B319B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF254CCC-CF07-45C3-843F-5A22F2B319B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAD9FDF9-0253-4DF8-B67D-E13EF4B2B625}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAD9FDF9-0253-4DF8-B67D-E13EF4B2B625}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAD9FDF9-0253-4DF8-B67D-E13EF4B2B625}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAD9FDF9-0253-4DF8-B67D-E13EF4B2B625}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
