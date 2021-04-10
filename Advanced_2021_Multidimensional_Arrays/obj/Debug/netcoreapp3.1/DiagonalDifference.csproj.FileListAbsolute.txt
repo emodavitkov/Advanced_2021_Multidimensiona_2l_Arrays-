@@ -1,0 +1,13 @@
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\Advanced_2021_Multidimensional_Arrays\bin\Debug\netcoreapp3.1\DiagonalDifference.exe
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\Advanced_2021_Multidimensional_Arrays\bin\Debug\netcoreapp3.1\DiagonalDifference.deps.json
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\Advanced_2021_Multidimensional_Arrays\bin\Debug\netcoreapp3.1\DiagonalDifference.runtimeconfig.json
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\Advanced_2021_Multidimensional_Arrays\bin\Debug\netcoreapp3.1\DiagonalDifference.runtimeconfig.dev.json
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\Advanced_2021_Multidimensional_Arrays\bin\Debug\netcoreapp3.1\DiagonalDifference.dll
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\Advanced_2021_Multidimensional_Arrays\bin\Debug\netcoreapp3.1\DiagonalDifference.pdb
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\Advanced_2021_Multidimensional_Arrays\obj\Debug\netcoreapp3.1\DiagonalDifference.csprojAssemblyReference.cache
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\Advanced_2021_Multidimensional_Arrays\obj\Debug\netcoreapp3.1\DiagonalDifference.AssemblyInfoInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\Advanced_2021_Multidimensional_Arrays\obj\Debug\netcoreapp3.1\DiagonalDifference.AssemblyInfo.cs
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\Advanced_2021_Multidimensional_Arrays\obj\Debug\netcoreapp3.1\DiagonalDifference.csproj.CoreCompileInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\Advanced_2021_Multidimensional_Arrays\obj\Debug\netcoreapp3.1\DiagonalDifference.dll
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\Advanced_2021_Multidimensional_Arrays\obj\Debug\netcoreapp3.1\DiagonalDifference.pdb
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\Advanced_2021_Multidimensional_Arrays\obj\Debug\netcoreapp3.1\DiagonalDifference.genruntimeconfig.cache

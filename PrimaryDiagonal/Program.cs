@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace DiagonalDifference
+namespace PrimaryDiagonal
 {
     class Program
     {
@@ -25,41 +25,17 @@ namespace DiagonalDifference
                 }
             }
 
-
-            int sumLeft = 0;
-            for (int i = 0; i < n; i++)
+            int sum = 0;
+            for (int row = 0; row < n; row++)
             {
-                sumLeft += matrix[i, i];
-            }
-
-
-            int sumRight = 0;
-            int padding = 0;
-            bool flag = true;
-
-            for (int row = n - 1; row >= 0; row--)
-            {
-                if (padding > n - 1)
+                for (int col = 0; col < n; col++)
                 {
-                    break;
-                }
-
-
-
-                for (int col = padding; col <= n - 1; col++)
-                {
-
-                    sumRight += matrix[row, col];
-                    padding++;
-                    if (flag == true)
+                    if (row == col)
                     {
-                        break;
+                        sum += matrix[row, col];
                     }
-
-
                 }
             }
-            int sum = Math.Abs(sumLeft - sumRight);
             Console.WriteLine(sum);
         }
     }

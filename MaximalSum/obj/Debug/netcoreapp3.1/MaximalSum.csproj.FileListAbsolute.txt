@@ -1,0 +1,13 @@
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\MaximalSum\bin\Debug\netcoreapp3.1\MaximalSum.exe
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\MaximalSum\bin\Debug\netcoreapp3.1\MaximalSum.deps.json
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\MaximalSum\bin\Debug\netcoreapp3.1\MaximalSum.runtimeconfig.json
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\MaximalSum\bin\Debug\netcoreapp3.1\MaximalSum.runtimeconfig.dev.json
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\MaximalSum\bin\Debug\netcoreapp3.1\MaximalSum.dll
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\MaximalSum\bin\Debug\netcoreapp3.1\MaximalSum.pdb
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\MaximalSum\obj\Debug\netcoreapp3.1\MaximalSum.csprojAssemblyReference.cache
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\MaximalSum\obj\Debug\netcoreapp3.1\MaximalSum.AssemblyInfoInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\MaximalSum\obj\Debug\netcoreapp3.1\MaximalSum.AssemblyInfo.cs
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\MaximalSum\obj\Debug\netcoreapp3.1\MaximalSum.csproj.CoreCompileInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\MaximalSum\obj\Debug\netcoreapp3.1\MaximalSum.dll
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\MaximalSum\obj\Debug\netcoreapp3.1\MaximalSum.pdb
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\MaximalSum\obj\Debug\netcoreapp3.1\MaximalSum.genruntimeconfig.cache
