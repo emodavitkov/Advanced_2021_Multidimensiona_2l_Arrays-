@@ -1,0 +1,13 @@
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\JaggedArrayModification\bin\Debug\netcoreapp3.1\JaggedArrayModification.exe
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\JaggedArrayModification\bin\Debug\netcoreapp3.1\JaggedArrayModification.deps.json
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\JaggedArrayModification\bin\Debug\netcoreapp3.1\JaggedArrayModification.runtimeconfig.json
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\JaggedArrayModification\bin\Debug\netcoreapp3.1\JaggedArrayModification.runtimeconfig.dev.json
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\JaggedArrayModification\bin\Debug\netcoreapp3.1\JaggedArrayModification.dll
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\JaggedArrayModification\bin\Debug\netcoreapp3.1\JaggedArrayModification.pdb
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\JaggedArrayModification\obj\Debug\netcoreapp3.1\JaggedArrayModification.csprojAssemblyReference.cache
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\JaggedArrayModification\obj\Debug\netcoreapp3.1\JaggedArrayModification.AssemblyInfoInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\JaggedArrayModification\obj\Debug\netcoreapp3.1\JaggedArrayModification.AssemblyInfo.cs
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\JaggedArrayModification\obj\Debug\netcoreapp3.1\JaggedArrayModification.csproj.CoreCompileInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\JaggedArrayModification\obj\Debug\netcoreapp3.1\JaggedArrayModification.dll
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\JaggedArrayModification\obj\Debug\netcoreapp3.1\JaggedArrayModification.pdb
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\JaggedArrayModification\obj\Debug\netcoreapp3.1\JaggedArrayModification.genruntimeconfig.cache

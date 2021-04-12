@@ -1,0 +1,13 @@
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\SnakeMoves\bin\Debug\netcoreapp3.1\SnakeMoves.exe
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\SnakeMoves\bin\Debug\netcoreapp3.1\SnakeMoves.deps.json
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\SnakeMoves\bin\Debug\netcoreapp3.1\SnakeMoves.runtimeconfig.json
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\SnakeMoves\bin\Debug\netcoreapp3.1\SnakeMoves.runtimeconfig.dev.json
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\SnakeMoves\bin\Debug\netcoreapp3.1\SnakeMoves.dll
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\SnakeMoves\bin\Debug\netcoreapp3.1\SnakeMoves.pdb
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.csprojAssemblyReference.cache
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.AssemblyInfoInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.AssemblyInfo.cs
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.csproj.CoreCompileInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.dll
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.pdb
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.genruntimeconfig.cache

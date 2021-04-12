@@ -61,6 +61,19 @@ namespace DiagonalDifference
             }
             int sum = Math.Abs(sumLeft - sumRight);
             Console.WriteLine(sum);
+
+
+            //sado 
+
+            //int sumFirstDiagonal = 0;
+            //int sumSecondDiagonal = 0;
+            //for (int i = 0; i < rowsAndCols; i++)
+            //{
+            //    sumFirstDiagonal += matrix[i, i];
+            //    sumSecondDiagonal += matrix[rowsAndCols - i - 1, i];
+            //}
+
+            //Console.WriteLine(Math.Abs(sumFirstDiagonal - sumSecondDiagonal));
         }
     }
 }

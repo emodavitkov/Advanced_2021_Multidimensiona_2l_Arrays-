@@ -1,0 +1,13 @@
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\MatrixShuffling\bin\Debug\netcoreapp3.1\MatrixShuffling.exe
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\MatrixShuffling\bin\Debug\netcoreapp3.1\MatrixShuffling.deps.json
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\MatrixShuffling\bin\Debug\netcoreapp3.1\MatrixShuffling.runtimeconfig.json
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\MatrixShuffling\bin\Debug\netcoreapp3.1\MatrixShuffling.runtimeconfig.dev.json
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\MatrixShuffling\bin\Debug\netcoreapp3.1\MatrixShuffling.dll
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\MatrixShuffling\bin\Debug\netcoreapp3.1\MatrixShuffling.pdb
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\MatrixShuffling\obj\Debug\netcoreapp3.1\MatrixShuffling.csprojAssemblyReference.cache
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\MatrixShuffling\obj\Debug\netcoreapp3.1\MatrixShuffling.AssemblyInfoInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\MatrixShuffling\obj\Debug\netcoreapp3.1\MatrixShuffling.AssemblyInfo.cs
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\MatrixShuffling\obj\Debug\netcoreapp3.1\MatrixShuffling.csproj.CoreCompileInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\MatrixShuffling\obj\Debug\netcoreapp3.1\MatrixShuffling.dll
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\MatrixShuffling\obj\Debug\netcoreapp3.1\MatrixShuffling.pdb
+C:\Users\A474627\source\repos\Advanced_2021_Multidimensional_Arrays\MatrixShuffling\obj\Debug\netcoreapp3.1\MatrixShuffling.genruntimeconfig.cache
